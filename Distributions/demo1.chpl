@@ -29,3 +29,6 @@ var C: [D2] real;
 for (i,j) in D2 do
   C[i,j] = 2.0 ** (i/j);
 
+
+// 5. Arrays of custom types elements
+
